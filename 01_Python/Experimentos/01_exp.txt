@@ -1,0 +1,20 @@
+Instrucciones: 
+Escribe en pseudocódigo (no Python todavía) cómo sería el proceso de un personaje que:
+Despierta en un sueño.
+Explora tres lugares distintos.
+Encuentra algo que cambia el rumbo del sueño.
+
+INICIO 
+    PERSONAJE se despierta del sueño
+    MOSTRAR "personaje abre los ojos y se encuentra en un bosque misterioso"
+    PERSONAJE explora el bosque
+    MOSTRAR Personaje camina entre los arboles y escucha sonidos extraños
+    PERSONAJE encuentra un sendero lleno de flores brillantes 
+    MOSTRAR  "personaje sigue el sendero y llega a un lago cristalino"
+    PERSONAJE explora el lago
+    MOSTRAR "personaje observa su reflejo en el agua y ve una figura misteriosa detrás de él"
+    PERSONAJE se siente intrigado y decide seguir la figura
+    PERSONAJE llega a una cueva oculta detrás de una cascada
+    MOSTRAR personaje se pierde y todo esta oscuro  
+    PERSONAJE despierta del sueño, sorprendido por lo vivido
+FIN  
