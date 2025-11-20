@@ -33,3 +33,10 @@ Su edad
 Si busca sabiduría o poder
 
 Dependiendo de las respuestas, el guardián decide si dejarlo entrar o no.
+
+# Minijuego 20-11-2025
+
+Simular un bucle de sueños, donde un jugador despierta en un bosque que se reinicia cada vez que toma una accion
+hasta que decide salir del sueño
+Tiene contadores y a medida de usarse cambia la respuesta
+
